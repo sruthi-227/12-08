@@ -1,0 +1,43 @@
+
+
+.container {
+
+    display:flex;
+   height: 100%;
+   width:500px;   
+}
+*{
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+    border-radius:2px;
+    box-sizing: border-box;
+
+}
+
+.sandwich, .steak, .cherries, .wine {
+   
+    border-radius: 5px;
+    
+    text-align: center;
+   width: 300px;
+}
+
+img {
+    width: 250px;
+    height: 400px;
+   }
+
+h2 {
+    text-align:center;
+    width:200px;
+    height:80px;
+}
+
+ p {
+    text-align:center;
+    width:200px;
+    height:70px;
+    
+}
+
